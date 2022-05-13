@@ -3,7 +3,7 @@ import pytest
 
 def test_pro():
 
-    print("这是一个测试用例")
+    print("999")
 
 
 if __name__ == '__main__':
