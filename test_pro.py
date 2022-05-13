@@ -8,4 +8,4 @@ def test_pro():
 
 if __name__ == '__main__':
     # pytest.main(['test_pro.py'])
-    pytest.main(["--alluredir=allure_result"])
+    pytest.main(["--alluredir=allure-results"])
